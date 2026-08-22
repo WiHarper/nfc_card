@@ -147,7 +147,7 @@
 	(net 26 "Net-(Q1-D)")
 	(net 27 "/UPDI_PAD")
 	(net 28 "/GATE")
-	(net 29 "Net-(U1-PB0)")
+	(net 29 "/INDICATOR_LED")
 	(net 30 "Net-(LED22-A)")
 	(net 31 "unconnected-(U1-PC1-Pad16)")
 	(net 32 "unconnected-(U3-VCC-Pad6)")
@@ -463,7 +463,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 0 1.16 45)
 			(layer "F.Fab")
 			(uuid "b73fc183-5a0a-438c-a69a-960fd878efd8")
@@ -1258,7 +1258,7 @@
 			(at -0.4 -1.5 45)
 			(size 0.2 0.8)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 29 "Net-(U1-PB0)")
+			(net 29 "/INDICATOR_LED")
 			(pinfunction "PB0")
 			(pintype "unspecified")
 			(uuid "b043d7cb-2255-4523-9a84-7db608077d5f")
@@ -3438,7 +3438,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 0 1.16 0)
 			(layer "F.Fab")
 			(uuid "14d2102f-a4d8-40c5-96ec-533e0bc49493")
@@ -5506,7 +5506,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "XL-1608UYC-06FJ"
 			(at 0 1.745846 90)
 			(layer "F.Fab")
 			(uuid "5a38b12a-2def-40c3-9bce-7ed784e387d9")
@@ -5517,7 +5517,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2402181501_XINGLIGHT-XL-1608UYC-06FJ_C7371901.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -5529,7 +5529,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "-40℃~+85℃ 1.6mm x 0.8mm square LED 1.9V~2.3V 120° 20mA 587nm~595nm 590nm 600mcd 60mW Discrete Diode Top-mount Water Clear Yellow 0603 LED Indication - Discrete ROHS"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -5541,7 +5541,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C7371900"
+		(property "LCSC" "C7371901"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -5566,7 +5566,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" ""
+		(property "Manufacturer Part" "XL-1608UYC-06FJ"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6952,7 +6952,7 @@
 				)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "10u"
 			(at 0 1.16 0)
 			(layer "F.Fab")
 			(uuid "874d192d-e7e1-4573-8766-fb4ee3bfd564")
@@ -7804,7 +7804,7 @@
 			(size 0.54 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 29 "Net-(U1-PB0)")
+			(net 29 "/INDICATOR_LED")
 			(pintype "passive")
 			(uuid "c0263e4a-12da-46f3-b01c-8b19962cdb49")
 		)
@@ -8667,7 +8667,7 @@
 				)
 			)
 		)
-		(property "Value" "1.5pF"
+		(property "Value" "1.5p"
 			(at 0 1.16 180)
 			(layer "F.Fab")
 			(uuid "c7fabf3b-df2a-47a7-a807-5a7c6947c078")
