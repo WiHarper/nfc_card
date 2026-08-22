@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "2026-05-19_15-46-41")(type "KiCad")(uri "C:/Users/harpe/Documents/KiCad/9.0/symbols/ST25DV04KC_JF6D3/KiCADv6/2026-05-19_15-46-41.kicad_sym")(options "")(descr ""))
+  (lib (name "JLCImport")(type "KiCad")(uri "${KIPRJMOD}/JLCImport.kicad_sym")(options "")(descr ""))
+)
