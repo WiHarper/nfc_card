@@ -7,5 +7,5 @@ Find more information at [wlsn.ee/nfc](https://wlsn.ee/nfc).
 
 This project is dual-licensed:
 
-* Firmware: Licensed under the [GNU General Public License v3.0](LICENSE-GPL) (GPL-3.0-or-later).
-* Hardware & PCB Layout: Licensed under the [CERN Open Hardware Licence Version 2 – Strong Copyleft](LICENSE-CERN) (CERN-OHL-S-v2).
+* Firmware: Licensed under the GNU General Public License v3.0 (GPL-3.0-or-later).
+* Hardware & PCB Layout: Licensed under the CERN Open Hardware Licence Version 2 – Strong Copyleft (CERN-OHL-S-v2).
