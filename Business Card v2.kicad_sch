@@ -10,7 +10,7 @@
 		(rev "2")
 		(company "Made by Wilson Harper")
 		(comment 1 "Details at wlsn.ee/nfc")
-		(comment 2 "Liscenced under GPL Vx.x")
+		(comment 2 "Liscenced under GPL v3.0")
 	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x03_Pin"

@@ -658,7 +658,7 @@
       "version": 1
     },
     "net_format_name": "",
-    "page_layout_descr_file": "test_a",
+    "page_layout_descr_file": "",
     "plot_directory": "C:/Users/harpe/Downloads/",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
