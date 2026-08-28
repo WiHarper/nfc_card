@@ -40,7 +40,6 @@ struct MorseElement {
   uint8_t units;
 };
 
-// easter egg
 const MorseElement morseSequence[] = {
   {true, 1}, {false, 1}, {true, 3}, {false, 1}, {true, 3}, {false, 3},
   {true, 1}, {false, 1}, {true, 1}, {false, 3},
