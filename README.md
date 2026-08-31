@@ -1,15 +1,7 @@
-# nfc_card
-
-Find more information at [wlsn.ee/nfc](https://wlsn.ee/nfc).
-
+# NFC Energy-Harvesting PCB Business Card with an MCU
 
 ![image](https://wilsonharper.net/assets/img/nfc/hero-1400.webp)
 
+Like most business cards, mine doesn’t have a battery. When it’s tapped against a phone, though, 21 LEDs start an animation, powered just by NFC.
 
-
-## License
-
-This project is dual-licensed:
-
-* Firmware: Licensed under the GNU General Public License v3.0 (GPL-3.0-or-later).
-* Hardware & PCB Layout: Licensed under the CERN Open Hardware Licence Version 2 – Strong Copyleft (CERN-OHL-S-v2).
+Find more information at [wlsn.ee/nfc](https://wlsn.ee/nfc).
