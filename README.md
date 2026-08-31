@@ -3,6 +3,10 @@
 Find more information at [wlsn.ee/nfc](https://wlsn.ee/nfc).
 
 
+![image](https://wilsonharper.net/assets/img/nfc/hero-1400.webp)
+
+
+
 ## License
 
 This project is dual-licensed:
